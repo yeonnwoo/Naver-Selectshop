@@ -1,7 +1,8 @@
-<h2 align="center">Naver Private Shop</h2>
 <h3 align="center">
-   네이버 쇼핑에서 :handbag: 상품을 검색하고 :mag:, 원하는 최저가 :money_with_wings: 뜨면 알려주는 서비스 :alarm_clock:
+   네이버 쇼핑에서 상품을 검색하고 :mag:, 원하는 최저가 :money_with_wings: 뜨면 알려주는 서비스 :alarm_clock:
 </h3>
+<h2 align="center">:house: Naver Private Shop :house:</h2>
+
 
 * * *
 
