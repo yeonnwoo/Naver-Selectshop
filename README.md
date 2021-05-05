@@ -2,7 +2,7 @@
    네이버 쇼핑에서 상품을 검색하고 :mag:, 원하는 최저가 :money_with_wings: 뜨면 알려주는 서비스 :alarm_clock:
 </h3>
 <h2 align="center">:house: Naver Private Shop :house:</h2>
-<p align="center"> <a href="https://yeon-woo-kim.tistory.com/category/Spring/%EB%82%98%EB%A7%8C%EC%9D%98%20%EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91%20%EC%85%80%EB%9E%99%EC%83%B5"> 개발일지:pencil2:</a></p>
+<p align="center"> <a href="https://yeon-woo-kim.tistory.com/category/Spring%20Boot/%EB%82%98%EB%A7%8C%EC%9D%98%20%EB%84%A4%EC%9D%B4%EB%B2%84%EC%87%BC%ED%95%91%20%EC%85%80%EB%9E%99%EC%83%B5"> 개발일지:pencil2:</a></p>
 
 
 * * *
